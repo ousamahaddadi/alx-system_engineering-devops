@@ -1,1 +1,2 @@
-This is day 0x01 of shell
+script one can switch to user betty
+script 2 can print the user name 
